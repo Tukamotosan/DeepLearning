@@ -1,1 +1,2 @@
-# DeepLearning
+# Deep Learning
+DeepLearningのお勉強コード
